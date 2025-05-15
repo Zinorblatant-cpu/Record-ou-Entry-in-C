@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747318830 source:d:\data_hub\projects\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+
+1747315775 d:\data_hub\projects\cadastro\cliente.h
+
+1747317985 d:\data_hub\projects\cadastro\user.h
+
